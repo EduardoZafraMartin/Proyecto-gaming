@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.body-login{
+    background-image: url("../img/img1.jpg"); 
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    max-width: 35rem; 
+    background-color: #191c24;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.form-control, .form-control:focus{
+    border: 1px solid #2c2e33;
+    background-color: #2A3038;
+    border-radius: 2px;
+    color: #ffffff;
+}
+
+
+
